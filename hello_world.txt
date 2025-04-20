@@ -1,4 +1,2 @@
-﻿Hello,world!
+﻿﻿Hello,world!
 こんばんは、世界！
- 
- 
